@@ -8,3 +8,5 @@
 
 ## Copyright
 ## Copyright2
+
+Please fork this repository and then issue a Pull request
